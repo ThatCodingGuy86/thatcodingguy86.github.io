@@ -1,0 +1,12 @@
+:root {
+	--main-text-color: #BBB;
+	--main-accent-color: #FFF;
+	--main-obscure-color: #666;
+	--main-background-color: #222;
+	--main-font-size: 5mm;
+	--list-background-alt2n0-color: #333;
+	--list-background-alt2n1-color: #444;
+	--code-background-color: #444;
+	--font-sans-serif: 'Raleway', sans-serif;
+	--font-serif: 'Crete Round', serif;
+}
